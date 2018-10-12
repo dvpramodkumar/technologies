@@ -12,10 +12,8 @@
 ERROR: QUOTES WERE MISSPLACED. 
 
 Atmosphere is developed by CyVerse (previously named as iPlant
-Collaborative).  It is a cloud-computing platform. It allows one to
-launch his own
-
-> ``isolated virtual machine (VM)'' image [@www-at1].
+Collaborative). It is a cloud-computing platform. It allows one to
+launch his own isolated virtual machine (VM) image [@www-at1].
 
 It does not require any machine specification. It can be run on any
 device (tablet/desktop/laptop) and any machine
@@ -29,5 +27,3 @@ one has several images of virtual machine and user can launch any
 image or instance according to his requirements.  The images launched
 by users can be shared among different members as and when
 required [@www-at2].
-
-
